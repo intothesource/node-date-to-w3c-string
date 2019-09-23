@@ -1,6 +1,6 @@
 {
   "name": "@intothesource/date-to-w3c-string",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Converts JavaScript Date Objects to W3C Strings",
   "main": "index.js",
   "engines": {
