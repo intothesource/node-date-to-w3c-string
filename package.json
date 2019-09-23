@@ -1,0 +1,29 @@
+{
+  "name": "@intothesource/node-date-to-w3c-string",
+  "version": "0.0.0",
+  "description": "Converts JavaScript Date Objects to W3C Strings",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intothesource/node-date-to-w3c-string.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intothesource/node-date-to-w3c-string/issues"
+  },
+  "homepage": "https://github.com/intothesource/node-date-to-w3c-string#readme"
+}
